@@ -14,6 +14,7 @@ layout: default
         <a href="http://codeforces.com/profile/huxingyu1996" target="_blank"><img src="http://codeforces.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://github.com/Huxingyu" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://dblp.uni-trier.de/" target="_blank"><img src="http://dblp.uni-trier.de/img/favicon.ico" alt="" width="22"/></a>
+        <a href="http://huxingyu.top/music">more</a> </p>
       </div>
       <div id="particles-js"></div>
     </div>
