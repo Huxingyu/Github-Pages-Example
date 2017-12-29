@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>Huxingyu_胡行宇</h1>
+        <h1>Huxingyu胡行宇</h1>
         
         <a href="https://www.douban.com/people/83097413/" target="_blank"><img src="https://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://www.zhihu.com/people/hu-xing-yu-94" target="_blank"><img src="https://www.zhihu.com/favicon.ico" alt="" width="22"/></a>
