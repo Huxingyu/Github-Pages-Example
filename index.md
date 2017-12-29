@@ -10,6 +10,7 @@ layout: default
         <a href="https://www.douban.com/people/83097413/" target="_blank"><img src="https://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://steamcommunity.com/id/huxingyu/" target="_blank"><img src="http://store.steampowered.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://codeforces.com/profile/huxingyu1996" target="_blank"><img src="http://codeforces.com/favicon.ico" alt="" width="22"/></a>
+         <a href="https://www.zhihu.com/people/hu-xing-yu-94" target="_blank"><img src="https://www.zhihu.com/favicon.ico" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
