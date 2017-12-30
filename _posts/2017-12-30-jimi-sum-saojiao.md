@@ -54,11 +54,12 @@ $$
 
 这个问题答案使用了一个原来没有见过的公式，即棣莫弗定理：
 
+$$
 \begin{equation}\begin{split} 
 cos(nx) + isin(nx)&= (cosx + isinx)^n\\
 &=\sum_{k=0}^n[C_n^k(isinx)^n(cosx)^{n-k}]
 \end{split}\end{equation}
-
+$$
 * 下面完成对这个公式的证明
 * 并且给出其与欧拉公式的内在联系
 
