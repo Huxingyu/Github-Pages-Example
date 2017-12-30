@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>胡行宇二十年思考</h1>
+        <h1>Huxingyu 20 years of thinking</h1>
         <a href="https://www.douban.com/people/83097413/" target="_blank"><img src="https://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://www.zhihu.com/people/hu-xing-yu-94" target="_blank"><img src="https://www.zhihu.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://steamcommunity.com/id/huxingyu/" target="_blank"><img src="http://store.steampowered.com/favicon.ico" alt="" width="22"/></a>
