@@ -14,7 +14,7 @@ $$\sum_{n=1}^\infty f(n) = qsin\alpha + q^2sin\alpha^2 + \cdots + q^nsin\alpha^n
 
 1，求解$$f(n)$$连加之和. 
 
-2，若上式中$$sin\alpha$$换为$$cos\alpha$$，则其$$\sum_{n=1}^\infty f(\alpha)$$会发生什么变化，结果是多少.
+2，若上式中$$sin\alpha$$换为$$cos\alpha$$，则其$$\sum_{n=1}^\infty f(n)$$会发生什么变化，结果是多少.
 
 解决思路：这个题目的有趣之处在于1,2问是在一块的，思路对了可以两个同时解出，否则1，2全都解决不了。
 
