@@ -4,7 +4,7 @@ title: 对于调和级数与P-级数收敛性的证明
 description: 这两个老哥有点意思
 category: blog
 ---
-<html>
+
 
 <head>
 <title>MA_0001_发散与收敛</title>
@@ -52,7 +52,7 @@ $$
 <p>2018快乐，祝自己新的一年一切顺利。</p>
 </body>
 
-</html>
+
 <script type="text/javascript"
    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
