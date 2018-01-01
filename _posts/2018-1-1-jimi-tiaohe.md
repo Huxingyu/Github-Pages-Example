@@ -5,12 +5,6 @@ description: 这两个老哥有点意思
 category: blog
 ---
 
-
-<head>
-<title>MA_0001_发散与收敛</title>
-</head>
-
-<body>
 在这里我们研究形式如\(\frac {1}{n^p}\)级数发散与收敛的性质
 <p>
 我们首先对\(\frac {1}{n^p}\)进行观察，分类：
