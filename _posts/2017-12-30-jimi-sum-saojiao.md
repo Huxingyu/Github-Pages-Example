@@ -46,12 +46,3 @@ cos(nx) + isin(nx)&= (cosx + isinx)^n\\
 $$
 * 下面完成对这个公式的证明
 * 并且给出其与欧拉公式的内在联系
-
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
-
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
