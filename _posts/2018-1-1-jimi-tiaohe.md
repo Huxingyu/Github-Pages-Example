@@ -46,11 +46,6 @@ $$
 <p>由此可知与之前猜想相互矛盾，所以\(S(n)\)收敛猜想不成立。</p>
 <p>对于证明\(p>1\)时的情况，我们不能使用初等方法给出，由于时间关系，我会另外写出证明\(P-\)级数收敛的方法，而且其与黎曼\(\xi\)函数相等，一个比较深刻的结论。</p>
 <p>2018快乐，祝自己新的一年一切顺利。</p>
-</body>
 
-
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 
 
