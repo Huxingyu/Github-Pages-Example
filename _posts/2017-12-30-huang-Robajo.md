@@ -15,51 +15,51 @@ category: blog
 
 《鲁拜集》是波斯诗人Omar Khayyam写作的诗集，鲁拜为Robajo的音译，为一种诗体，与中国绝句有形似之处。下面不妨看几首，黄先生的译文与Edward Fitzgerald英译的对比。原诗为波斯文，由Edward Fitzgerald花费二十余年翻译，也被认为是最好的一版翻译。
 
-<ul>
+```md
 
    Before the phantom of False morning died,
    Methought a Voice within the Tavern cried,
    "When all the Temple is prepared within,
     Why nods the drowsy Worshipper outside?
     "
-</ul>
+```
 黄先生译：
-<ul>
+```md
 一抹朝暾染四埵，
 隔門客舍語依稀：
 『生涯莫放金尊嬾，
 人易凋零酒易晞』。
-</ul>
+```
 最后两句”生涯莫放金尊懒，人易凋零酒易稀“，化用李白的“莫使金尊空对月”，一气呵成，淡而有味。
 
-<ul>
+```md
 Iram indeed is gone with all its Rose
 And Jamshyd's Seven-ring'd Cup where no one knows;
 But still a Ruby kindles in the Vine,
 And many a Garden by the Water blows.
-</ul>
+```
 黄先生译：
-<ul>
+```md
 沉沉消息七環杯，
 伊覽芳華盡劫灰。
 唯有野花紅似昔，
 年年爭向水邊開。
-</ul>
+```
 如何说，黄的诗有一种经历过后的味道，使人读起来舒服，有李煜的些许味道。
 
-<ul>
+```md
 Come, fill the Cup, and in the Fire of Spring
 Your Winter-garment of Repentance fling:
 The Bird of Time has but a little way
 To flutter — and the Bird is on the Wing.
-</ul>
+```
 黄先生译：
-<ul>
+```md
 春火珠紅酒裏天，
 心中塊壘碎尊前。
 白駒此去無多路，
 歲月無情已著鞭。
-</ul>
+```
 这一句"岁月无情已着鞭"神来之笔，不知道黄先生的物理里面有没有如此漂亮的学问，有时间去看一番。
 
 可惜的是，黄先生去年西去了，岁月无情，人易凋零。
