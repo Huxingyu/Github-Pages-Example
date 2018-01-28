@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 读黄克孙译《鲁拜集》中几诗感
+title: 读黄克孙译《鲁拜集》中几作诗感
 description: 君子不器，如是一生
 category: blog
 ---
 
-黄克孙先生是MIT的做物理的学者，在统计物理方面颇有建树，写过教材《Statistical_Mechanics》，在华人物理中算是十分不错的了。
+黄克孙先生是MIT的做物理的大家，在统计物理方面颇有建树，编辑过教材《Statistical_Mechanics》，在华人物理中是非常不错了。
 
 郝柏林院士有故事说，有些苏联的物理学家常把黄克孙先生与黄昆先生混为一人，因为他俩的名字缩写均为K.Huang，黄昆先生在我国固体物理领域作出了相当漂亮的工作，由此见Kerson Huang的物理工作相当出色了。
 
@@ -16,12 +16,10 @@ category: blog
 《鲁拜集》是波斯诗人Omar Khayyam写作的诗集，鲁拜为Robajo的音译，为一种诗体，与中国绝句有形似之处。下面不妨看几首，黄先生的译文与Edward Fitzgerald英译的对比。原诗为波斯文，由Edward Fitzgerald花费二十余年翻译，也被认为是最好的一版翻译。
 
 ```md
-
-   Before the phantom of False morning died,
-   Methought a Voice within the Tavern cried,
-   "When all the Temple is prepared within,
-    Why nods the drowsy Worshipper outside?
-    "
+ Before the phantom of False morning died,
+ Methought a Voice within the Tavern cried,
+ "When all the Temple is prepared within,
+ Why nods the drowsy Worshipper outside?"
 ```
 黄先生译：
 ```md
