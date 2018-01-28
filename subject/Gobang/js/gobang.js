@@ -330,7 +330,7 @@ var isShowLabel = false;
 
     var checkWin = function(isBlack) {
         if (isOver) {
-            isBlack ? alert("black win") : alert("white win");
+            isBlack ? alert("black win") : alert("傻逼 又输了");
         }
     };
     var loadPicAndDraw = function() {
