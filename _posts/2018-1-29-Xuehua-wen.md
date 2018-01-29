@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 雪融
-description: 近来陷阱，前日下雪，忙里偷闲一诗篇。
+description: 近来陷阱，前日下雪，忙里偷闲，潦草几句。
 category: blog
 ---
 
