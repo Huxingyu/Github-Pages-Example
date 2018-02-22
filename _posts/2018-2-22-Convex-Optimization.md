@@ -14,15 +14,11 @@ Reference material:
 - Convex Optimization -by Stephen Boyd
 - PKU Course-00136660 Lecture
 
-Affine and convex sets
-==
 Lines and line segements
 --
-Suppose $$x1\neq x2$$ are two point in $$R^n$$.
-
-Point of form
+Suppose $$x_1\neq x_2$$ are two points in $$R^n$$,Point of form
 $$ y=\theta x1+(1-\theta)x2,\theta \in R$$
-form thr line passing through $$x1$$ and $$x2$$.
+form the line passing through $$x_1$$ and $$x_2$$.
 
 Values of the parameter \theta between 0 and 1 correspond to the (closed) line segement between $$x1$$ and $$x2$$.
 
@@ -30,9 +26,9 @@ Values of the parameter \theta between 0 and 1 correspond to the (closed) line s
 
 Affine sets
 --
-A set $$C \subseteq R^n$$ is affine if the line through any two distinct points in $$C$$ lies in C.
+A set $$C \subseteq R^n$$ is affine if the line through any two distinct points in $$C$$ lies in $$C$$.
 
-If for any $$x1$$,$$x2 \in C$$ and $$\theta \in R$$,we have $$\theta x1 + (1 - \theta)x2 \in C$$.In other word,$$C$$ contains the linear combination of any two points in $$C$$,which sum to one.
+If for any $$x_1$$,$$x_2 \in C$$ and $$\theta \in R$$,we have $$\theta x_1 + (1 - \theta)x_2 \in C$$.In other word,$$C$$ contains the linear combination of any two points in $$C$$,which sum to one.
 
 The idea can be generalized to more than points.We refer to a point of the form $$\theta_1 x_1+\ldots +\theta_kx_k$$,where $$\theta_1 x_1+\ldots +\theta_kx_k = 1$$,as an affine combination of the points $$x_1,\ldots,x_k$$.
 
