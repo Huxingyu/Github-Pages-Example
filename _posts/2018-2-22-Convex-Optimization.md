@@ -20,7 +20,7 @@ Suppose $$x_1\neq x_2$$ are two points in $$R^n$$,Point of form
 $$ y=\theta x_1+(1-\theta)x_2,\theta \in R$$
 form the line passing through $$x_1$$ and $$x_2$$.
 
-Values of the parameter \theta between 0 and 1 correspond to the (closed) line segement between $$x_1$$ and $$x_2$$.
+Values of the parameter $$\theta$$ between 0 and 1 correspond to the (closed) line segement between $$x_1$$ and $$x_2$$.
 
 ![line](/images/convex/basic/line.JPG)
 
