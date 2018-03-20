@@ -1,31 +1,31 @@
 ---
 layout: post
-title: »ùÓÚ·ÖÎö½Ç¶ÈµÄÎ¢»ý·ÖÌåÏµµÄ´î½¨
-description: ÌìµØÓÐÕýÆø£¬ÔÓÈ»¸³Á÷ÐÎ.
+title: åŸºäºŽåˆ†æžè§’åº¦çš„å¾®ç§¯åˆ†ä½“ç³»çš„æ­å»º
+description: å¤©åœ°æœ‰æ­£æ°”ï¼Œæ‚ç„¶èµ‹æµå½¢.
 category: blog
 ---
 
-»ùÓÚ·ÖÎöµÄÎ¢»ý·Ö´î½¨£¬´óÔ¼ÊÇÊýÑ§ÉÏ×î³ÉÊì¶ø×³ÃÀµÄ¹¤×÷ÁË£¬Õâ¼¸ÄêÑ§Ï°£¬¹ÜÖÐ¿ú±ªÄÜµÃÒ»¶þÕæÀí£¬ÐÒÉõÖÁÔÕ¡£
+åŸºäºŽåˆ†æžçš„å¾®ç§¯åˆ†æ­å»ºï¼Œå¤§çº¦æ˜¯æ•°å­¦ä¸Šæœ€æˆç†Ÿè€Œå£®ç¾Žçš„å·¥ä½œäº†ï¼Œè¿™å‡ å¹´å­¦ä¹ ï¼Œç®¡ä¸­çª¥è±¹èƒ½å¾—ä¸€äºŒçœŸç†ï¼Œå¹¸ç”šè‡³å“‰ã€‚
 
-´óÖÂÉæ¼°ÒÔÏÂÈô¸É¿Î³Ì£º
+å¤§è‡´æ¶‰åŠä»¥ä¸‹è‹¥å¹²è¯¾ç¨‹ï¼š
 
-- ÊýÑ§·ÖÎö
-- ¸µÀïÒ¶·ÖÎö
-- ¸´±äº¯ÊýÂÛ
-- ²â¶ÈÂÛ
-- ·ºº¯·ÖÎö
-- Î¢·ÖÁ÷ÐÎ
-- ³£Î¢·Ö·½³Ì
+- æ•°å­¦åˆ†æž
+- å‚…é‡Œå¶åˆ†æž
+- å¤å˜å‡½æ•°è®º
+- æµ‹åº¦è®º
+- æ³›å‡½åˆ†æž
+- å¾®åˆ†æµå½¢
+- å¸¸å¾®åˆ†æ–¹ç¨‹
 
-¸öÈË¸Ð¾õFDUµÄÎ¢»ý·ÖÌåÏµ»¹²»´í£¬ÏÂÃæ¸ø³ö£¬Í¬Ê±Ò²Ê®·Ö¸ÐÐ»Ð»Îý÷ëÀÏÊ¦µÄ¹¤×÷¡£
+ä¸ªäººæ„Ÿè§‰FDUçš„å¾®ç§¯åˆ†ä½“ç³»è¿˜ä¸é”™ï¼Œä¸‹é¢ç»™å‡ºï¼ŒåŒæ—¶ä¹Ÿååˆ†æ„Ÿè°¢è°¢é”¡éºŸè€å¸ˆçš„å·¥ä½œã€‚
 
 ![Basic](/images/math/calculus/basic_pic.png)
 
-![Basic](/images/math/calculus/advance_pic.png)
+![Advance](/images/math/calculus/advance_pic.png)
 
-Ç°Â·ÂþÂþ£¬Îá½«ÉÏÏÂ¶øÇóË÷¡£
+å‰è·¯æ¼«æ¼«ï¼Œå¾å°†ä¸Šä¸‹è€Œæ±‚ç´¢ã€‚
 
-Ç°ÈËÔÔÊ÷ºóÈË³ËÁ¹£¬ÏòÌ½Ë÷Î´ÖªµÄÇ°±²ÃÇÖÂ¾´¡£
+å‰äººæ ½æ ‘åŽäººä¹˜å‡‰ï¼Œå‘æŽ¢ç´¢æœªçŸ¥çš„å‰è¾ˆä»¬è‡´æ•¬ã€‚
 
 
 
