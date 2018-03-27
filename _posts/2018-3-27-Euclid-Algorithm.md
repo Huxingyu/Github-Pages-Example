@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 欧几里得算法实现与最大公约数算法研究
-description: "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day."--Donald Ervin Knuth
+description: "[The Euclidean algorithm] is the granddaddy of all algorithms."--Donald Ervin Knuth
 category: blog
 ---
 
