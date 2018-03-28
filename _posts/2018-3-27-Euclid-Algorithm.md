@@ -25,8 +25,8 @@ category: blog
 - 逆向
 
 设$$d$$为$$(b,a\mod b)$$的一任意公约数，
-
-则有$$d\vert b,$$d\vert r$$,而$$a=kb+r$$.
+则有$$d\vert b,$$d\vert r$$,
+而$$a=kb+r$$.
 
 故$$d$$为$$(a,b)$$公约数。
 
