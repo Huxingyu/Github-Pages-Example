@@ -16,7 +16,7 @@ category: blog
 
 设$$a=kb+r$$,则有$$r=a\mod b$$;
 
-再设$$d$$为$$a$$,$$b$$公约数,则有:$$d\|a$$,$$d\|b$$。
+再设$$d$$为$$a$$,$$b$$公约数,则有:$$d\vert a$$,$$d\vert b$$。
 
 由于$$a=kb+r$$,则有$$r=a-kb$$。
 
@@ -26,7 +26,7 @@ category: blog
 
 设$$d$$为$$(b,a\mod b)$$的一任意公约数，
 
-则有$$d\|b,$$d\|r$$，而$$a=kb+r$$.
+则有$$d\vert b,$$d\vert r$$，而$$a=kb+r$$.
 
 故$$d$$为$$(a,b)$$公约数。
 
