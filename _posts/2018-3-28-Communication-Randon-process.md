@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 通信原理中作用的随机过程的定理推导
+title: 随机过程中一些基础定理的数学推导
 description: 随机过程作为通元的先修，一些概念不好理解，现在给出具体的推导，step by step.
 category: blog
 ---
