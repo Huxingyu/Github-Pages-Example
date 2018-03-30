@@ -6,7 +6,7 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>似水流年_朝花夕拾</h1>
+        <h1>追忆似水流年</h1>
         <a href="https://www.douban.com/people/83097413/" target="_blank"><img src="https://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://stackexchange.com/users/3904305/joehu?tab=accounts" target="_blank"><img src="https://sstatic.net/stackexchange/img/favicon.ico" alt="" width="22"/></a>
         <a href="http://steamcommunity.com/id/huxingyu/" target="_blank"><img src="http://store.steampowered.com/favicon.ico" alt="" width="22"/></a>
