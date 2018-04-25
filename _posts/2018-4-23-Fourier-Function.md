@@ -36,8 +36,15 @@ $$\frac {\partial^2}{\partial t^2}\cdot u(x+h,t)=\frac {KL^2}{M}\cdot \frac {\pa
 这就是著名的偏微分方程————弦振动方程。
 
 令$$c=\sqrt {\frac {KL^2}{M}}$$
-则波动方程可表示为算子形式：$$[\frac {\partial}{\partial t}-c\frac {\partial}{\partial x}][\frac {\partial}{\partial t}+c\frac {\partial}{\partial x}]u=0$$
-则其通解可表示为：$$u(x,t)=F(x+ct)+G(x-ct)$$考虑初值条件:
+则波动方程可表示为算子形式：
+
+$$[\frac {\partial}{\partial t}-c\frac {\partial}{\partial x}][\frac {\partial}{\partial t}+c\frac {\partial}{\partial x}]u=0$$
+
+则其通解可表示为：
+
+$$u(x,t)=F(x+ct)+G(x-ct)$$
+
+考虑初值条件:
 $$\begin{cases}u(x,0)=f(x)\\u_{t}(x,0)=g(x)\end{cases}$$
 代入可得达朗贝尔行波解：$$u(x,t)=\frac {f(x-ct)+f(x+ct)}{2}+\frac {1}{2c}\int_{x+ct}^{x-ct}g(s)ds$$
 分离变数法与Sturm-Liouville问题--
