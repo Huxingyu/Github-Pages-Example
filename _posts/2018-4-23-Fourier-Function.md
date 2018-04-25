@@ -45,8 +45,12 @@ $$[\frac {\partial}{\partial t}-c\frac {\partial}{\partial x}][\frac {\partial}{
 $$u(x,t)=F(x+ct)+G(x-ct)$$
 
 考虑初值条件:
+
 $$\begin{cases}u(x,0)=f(x)\\u_{t}(x,0)=g(x)\end{cases}$$
-代入可得达朗贝尔行波解：$$u(x,t)=\frac {f(x-ct)+f(x+ct)}{2}+\frac {1}{2c}\int_{x+ct}^{x-ct}g(s)ds$$
+
+代入可得达朗贝尔行波解：
+
+$$u(x,t)=\frac {f(x-ct)+f(x+ct)}{2}+\frac {1}{2c}\int_{x+ct}^{x-ct}g(s)ds$$
 
 
 分离变数法与Sturm-Liouville问题
@@ -55,6 +59,7 @@ $$ \left\{\begin{array}{rcl}(D.E.)     & {\frac {\partial^2 u}{\partial t^2}=c^2
 
 
 根据伯努利分离变数法，可设$$u(x,t)=T(t)\varphi(x)$$
+
 $$ \left\{\begin{array}{rcl}T''(t)+c^2\varphi ^2T(t)=0\\\varphi''(x)+\varphi(x)=0 ,& {\varphi(0)=\varphi(L)=0}\end{array} \right. $$
 
 
