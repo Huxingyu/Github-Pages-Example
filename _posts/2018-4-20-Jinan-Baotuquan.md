@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 趵突泉一游记
+title: 趵突泉游记
 description: 泛善可陈，趵突泉也闹情绪罢工了，似乎这次来错了。
 category: paper
 ---
