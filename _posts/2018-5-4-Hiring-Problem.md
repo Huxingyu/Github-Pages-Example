@@ -44,7 +44,7 @@ Let $$g(x)=\frac {x}{n}ln\frac {n}{x}$$,and we can get $$g'(x)=\frac {1}{n}ln\fr
 
 Now we find the max value of this function,we have:
 
-$$g'(x)=0 \Rightarrow ln\frac {n}{x}=1 \Rightarrow x=frac {n}{e}$$
+$$g'(x)=0 \Rightarrow ln\frac {n}{x}=1 \Rightarrow x=\frac {n}{e}$$
 
 So,now we know the $$r=\frac {n}{e}$$,and the probability that we find the max of $$n$$ is $$\frac {1}{e}$$.
 
@@ -53,4 +53,5 @@ Code and model
 **References:**
 
 1,[Chapter 2. FINITE HORIZON PROBLEMS.](http://www.math.ucla.edu/~tom/Stopping/sr2.pdf)
+
 2,[Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem)
