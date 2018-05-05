@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The mathematical principle and code of Hiring Problem
-description: In everywhere we must make chioce,for Hiring Problem our goal is finding the time when we just do it.
+description: 此情可待成追忆，只是当时已惘然--说的就是这个问题。
 category: blog
 ---
 
@@ -48,10 +48,17 @@ $$g'(x)=0 \Rightarrow ln\frac {n}{x}=1 \Rightarrow x=\frac {n}{e}$$
 
 So,now we know the $$r=\frac {n}{e}$$,and the probability that we find the max of $$n$$ is $$\frac {1}{e}$$.
 
-Code and model
+Dynamic programming
 --
+I will give its solution in next paper.i am tried now,zZZ.
+
 **References:**
+--
 
 1,[Chapter 2. FINITE HORIZON PROBLEMS.](http://www.math.ucla.edu/~tom/Stopping/sr2.pdf)
 
 2,[Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem)
+
+3,[SUM THE ODDS TO ONE AND STOP](https://projecteuclid.org/download/pdf_1/euclid.aop/1019160340)
+
+4,[实用马尔可夫决策过程](https://books.google.com.hk/books?id=iAan6NMMAzcC&pg=PR33&lpg=PR33&dq=动态规划+秘书问题&source=bl&ots=uKSm_c-q1X&sig=0WLQRS0PifOQdSypIul_M5HKflM&hl=zh-CN&sa=X&redir_esc=y#v=onepage&q=动态规划%20秘书问题&f=false)
