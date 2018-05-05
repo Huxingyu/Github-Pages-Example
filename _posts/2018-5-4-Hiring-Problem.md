@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The mathematical principle and code of Hiring Problem
+title: The mathematical principle of Hiring Problem
 description: 此情可待成追忆，只是当时已惘然--说的就是这个问题。
 category: blog
 ---
