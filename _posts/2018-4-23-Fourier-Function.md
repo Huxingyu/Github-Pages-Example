@@ -38,7 +38,6 @@ $$\frac {\partial^2}{\partial t^2}\cdot u(x+h,t)=\frac {KL^2}{M}\cdot \frac {\pa
 这就是著名的偏微分方程————弦振动方程。
 
 令$$c=\sqrt {\frac {KL^2}{M}}$$
-<<<<<<< HEAD
 
 则波动方程可表示为算子形式：
 $$[\frac {\partial}{\partial t}-c\frac {\partial}{\partial x}][\frac {\partial}{\partial t}+c\frac {\partial}{\partial x}]u=0$$
