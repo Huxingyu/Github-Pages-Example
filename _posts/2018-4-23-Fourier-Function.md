@@ -12,7 +12,6 @@ category: blog
 =======
 最近喜欢上了一个女孩，借UKIM的这句很抒情的话抒情下吧。
 我希望对后一种美丽，最后有可解的答案。
->>>>>>> f46e7a21fd8b7d441fa56cdf33fc630c7135debe
 
 
 Wave equation
@@ -149,7 +148,6 @@ Fourier Transform
 
 
 $$\hat{f}(\xi)=\int_{\mathbb{R}}e^{-2\pi ix\cdot\xi}f(x)dx,\xi\in\mathbb{R}$$
->>>>>>> f46e7a21fd8b7d441fa56cdf33fc630c7135debe
 
 
 后面还会有好多工作，不过不在今天和这篇文章里面写了，有些累喽。今天写的内容，里面还有一些不清晰的，需要查阅一些资料。
