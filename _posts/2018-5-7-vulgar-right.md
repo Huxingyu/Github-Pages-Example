@@ -25,14 +25,35 @@ Brave New world
 --
 In the utopian novels of the last century, they all mentioned that in a highly centralized society, rulers always advocate strict purity and goodness,mixed with a frigidity style.
 
+As a person grew up in china,i don't think this country's current situation is extremely bad.But i think it has a big error in giving his peoople's freedom and equality.The position of the authorities and the people is not equal,and the latter do not understand the former's operating rules.In recent years,in dealing with some incidents,the goverment's approach is too simple and rude.
 
+The chinese goverment want build a rich and stable society,if society have some phenomenon which conform match the socialist core values,it will vanish.This why Neihan Duanzi was die.
+
+The country want make a new world,but i don't wish it will ba a brave new world.
 
 Play Ganme or Do Evil
 --
+"The internet,of course,does not necessarily inspire people to be their better selves as much as it lays bare their most basic and,sometimes,beast instints."
+
+After Neihan Duanzi was blocked,many netizens compare it with PlayBoy incident,in this case,i can't agree fully.
+
+On the one hand,every country both have its situation,we can't use USA's water to water CN's land.On the other hand,i don't think nudity is a vulgar thing.
+
+Every one have the right to speak,this is the right thst society gives us;but we also should know what we can't speak in public,this is the limit that society ask us.
 
 Normal's Fail
 --
+When we look back this incident,the biggest victim is not Bytedance or some people who use this platform to publish vulgar content for profit.The biggest victim is the ten of millions normal people,they don't do anything that maybe will hurt anyone,but they lose a way to find jokes and make themselvs happy quickly.
 
+They are the silent majority,they are the biggest victim.
+
+What i think not right or suit place is here,for a society,unconditional deprivation of the rights of ordinary people is a crime.
+
+Last
+--
+Recently,the headmaster of peking university read a word wrong during his speech,this not a big thing.But in his apology letter,he said "Questioning is not useful and is not conducive to social progress".
+
+I think,if he is right,maybe my article must be wrong.
 
 
 
