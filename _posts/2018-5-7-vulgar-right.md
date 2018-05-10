@@ -5,7 +5,7 @@ description: But we should not stop thinking,but we should not give up our right
 category: blog
 ---
 
-Last month,a chinese start-up had trouble,because "drawing the ire of china's censors".Of course,this move by the goverment also drawed the ire of china's people.
+Last month,a chinese start-up had a trouble,because "drawing the ire of china's censors".Of course,this move by the goverment also drawed the ire of china's people.
 
 China's top madia regulator closed this app--Neihan Duanzi,was shut down for hosting "vulgar" jokes and videos."Caused strong dislike among internet uers",a brief notice from the State Administration of Radio and Television said.
 
