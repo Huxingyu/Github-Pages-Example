@@ -33,7 +33,7 @@ category: blog
 
 备注:
 
-1.［雪融］（http://huxingyu.top/Xuehua-wen） 援引于寒假的另一个创作。
+1.（雪融）［http://huxingyu.top/Xuehua-wen］ 援引于寒假的另一个创作。
 
 2.后三句，直接引用于个人十分喜欢的宋词人柳永《蝶恋花》。
 
