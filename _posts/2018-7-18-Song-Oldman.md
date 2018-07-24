@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: 白马青牛还杀了一只鸡
-description: 好歌献给你，愿你留心底。
+description: 好歌献给您，愿您留心底。
 category: blog
 ---
 
