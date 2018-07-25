@@ -13,14 +13,11 @@ category: blog
 ![王献之](/images/shufa/zhi/002.JPG)
 王献之，出处未知。
 
-![颜真卿](/images/shufa/zhi/002.JPG)
+![颜真卿](/images/shufa/zhi/003.JPG)
 颜真卿，出处未知。
 
-![文徽明](/images/shufa/zhi/003.JPG)
+![文徽明](/images/shufa/zhi/004.JPG)
 文徽明，京邸归还诗。
-
-![唐寅](/images/shufa/zhi/005.JPG)
-唐寅，落花诗册。
 
 ![怀素](/images/shufa/zhi/006.gif)
 怀素，自叙帖。
