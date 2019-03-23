@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>追忆似水年华</h1>
         <a href="https://stackexchange.com/users/3904305/joehu?tab=accounts" target="_blank"><img src="https://sstatic.net/stackexchange/img/favicon.ico" alt="" width="22"/></a>
-        <a href="http://codeforces.com/profile/huxingyu1996" target="_blank"><img src="http://codeforces.com/favicon.ico" alt="" width="22"/></a>
+        <a href="https://dblp.uni-trier.de/" target="_blank"><img src="https://dblp.uni-trier.de/img/favicon.ico" alt="" width="22"/></a>
         <a href="https://github.com/Huxingyu" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://www.fcbarcelona.com/en/" target="_blank"><img src="http://huxingyu.top/images/ico/favicon.ico" alt="" width="22"/></a>
         <a href="https://www.douban.com/people/83097413/" target="_blank"><img src="https://www.douban.com/favicon.ico" alt="" width="22"/></a>
