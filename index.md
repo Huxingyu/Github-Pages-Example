@@ -7,16 +7,15 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>追忆似水年华</h1>
-        <a href="https://www.douban.com/people/83097413/" target="_blank"><img src="https://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://stackexchange.com/users/3904305/joehu?tab=accounts" target="_blank"><img src="https://sstatic.net/stackexchange/img/favicon.ico" alt="" width="22"/></a>
         <a href="http://codeforces.com/profile/huxingyu1996" target="_blank"><img src="http://codeforces.com/favicon.ico" alt="" width="22"/></a>
         <a href="https://github.com/Huxingyu" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="22"/></a>
-        <a href="http://dblp.uni-trier.de/" target="_blank"><img src="http://dblp.uni-trier.de/img/favicon.ico" alt="" width="22"/></a>
+        <a href="https://www.fcbarcelona.com/en/" target="_blank"><img src="huxingyu.top/images/ico/FC_Barcelona.ico" alt="" width="22"/></a>
+        <a href="https://www.douban.com/people/83097413/" target="_blank"><img src="https://www.douban.com/favicon.ico" alt="" width="22"/></a>
         <a href="http://steamcommunity.com/id/huxingyu/" target="_blank"><img src="http://store.steampowered.com/favicon.ico" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
-
     <div class="index-content">
       <ul class="artical-list">
         {% for post in site.categories.blog %}
